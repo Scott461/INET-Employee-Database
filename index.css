@@ -1,0 +1,15 @@
+/* This CSS source file is part of a larger program called index.php. This file controls the style of the web pages
+ used by the user */
+table tr td {
+    border: 1px solid black;
+}
+
+.customForm {
+    display: grid;
+    grid-template-columns: min-content 1fr;
+    gap: 5px;
+}
+
+.customForm > label {
+    white-space: nowrap;
+}
