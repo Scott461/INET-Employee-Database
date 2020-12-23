@@ -20,17 +20,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8f1a8f8c-a372-4193-a47b-f2c2a86a3710" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/MID TERM/checkLogin.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MID TERM/employeeDelete.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MID TERM/employeeUpdate.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MID TERM/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MID TERM/index.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MID TERM/isLoggedIn.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MID TERM/logOut.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MID TERM/loginScreen.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MID TERM/newEmployee.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MID TERM/validation.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MID TERM/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/3e4c2825-a8ef-4a9d-8aa3-bb6bac1b1b6f.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/3e4c2825-a8ef-4a9d-8aa3-bb6bac1b1b6f/storage_v2/_src_/schema/information_schema.FNRwLQ.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MID TERM" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processRegister.php" beforeDir="false" afterPath="$PROJECT_DIR$/processRegister.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +43,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/MID TERM" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="PhpDebugGeneral" listening_started="true" />
   <component name="PhpServers">
@@ -93,7 +88,8 @@
       <workItem from="1607366486123" duration="1725000" />
       <workItem from="1607798431510" duration="9872000" />
       <workItem from="1608064523698" duration="19000" />
-      <workItem from="1608211981851" duration="50786000" />
+      <workItem from="1608211981851" duration="51705000" />
+      <workItem from="1608728937405" duration="1197000" />
     </task>
     <servers />
   </component>

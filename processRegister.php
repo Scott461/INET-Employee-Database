@@ -49,8 +49,12 @@ if ($message == null) {
     $statement = $pdo->prepare($SQL_CREATE_WEB_USER);
     $statement->bindParam(":user_name", $userName, PDO::PARAM_STR);
     $statement->bindParam(":hash", $hashedPassword, PDO::PARAM_STR);
-    $statement->execute();
-    header("location:index.php");
+    if ($statement->execute()) {
+        header("location:index.php");
+    } else {
+        $errorMessage = $statement->errorInfo()[2];
+        echo "<p>Failed to insert a web user. $errorMessage</p>";
+    }
 } else {
     header("location:register.php?message=$message");
 }
